@@ -1,2 +1,23 @@
-# bubbleSortAlg
-You can find flowchart of this code at /www.plantuml.com/plantuml/png/ZLHDJzmm4BtdLpnnsKMYLUaHIeLKKCKDbVPGLJruazdD27kSZftItL_VVE1a7OJ4NhBnl7dl-NdYwn2DnjRPOlXJhF3GF-6tY3MXKRzJuugBE-78nlA1q07BHwp3wMMXr9291G1St71ehDd3aRINmz8At-WTpusnJitHOv33LYdK85FMYEneP4fTIxbKDHKuM7BZ0c-n7bvnTONpqrv5iDvJE1tAev4VWHHbxNsWqAkpD6s4j6v36YRSnRrwrtIklEByGofVJlLfk-cNx8p814oYzstQsrY7b-Zd57AU3fpXidrd-dYgsHBM5fywbqVb5T8Pz1fbgqeIKNPitJF0RnVQsR6DSWbyJFhWDGwTHhK3je5bXqsxsLX2w6eprnTZxNEbRreRrJF8aSDbaekyV9ConrQzc-t2I8NIkyOeuObZFGXJDLhAWvnP1fAHOBQGHkRHQ61hGcHrfXyTe_hhyFlb_6GMlzUKo3c0PKpQgr8PuRKYpPl6eMA9E7bWDTOu8wZyJjkJt1BPG5YBVxFeathPZP9dgCP3d9m4-jEIbFIgcPz6B0U4Pq_lSTDxcjupS_cWPCc_X6sKp29jaegtHSv5fP8ZYJYyDjq7VBx2yNGNAQRyY__unY-U_d7ChhJ9p6rNIQkpN8Y-cIIFUE_ahx5S8P2bCh8Nr4Ogox8hbY5_fP8qy061IdROcoQo3D6cKB8j7zzYnGgtKYrluS7JTTVQEliV
+🧮 Stack-based Number Sorting (C)
+This C program uses a stack data structure to input, display, and verify the sorting of numbers.
+It integrates Bubble Sort to arrange numbers in ascending order and checks the stack against the sorted list.
+
+📋 How it Works:
+Users enter 10 numbers, which are pushed onto the stack.
+The program sorts the numbers and compares them with the stack order.
+Feedback is provided if the stack's order matches the sorted list.
+🚀 Features:
+Stack implementation (LIFO structure)
+Bubble Sort for sorting numbers
+Interactive menu for user input
+Validation of user sorting
+⚙️ Key Functions:
+initialize() – Initializes the stack
+push() – Pushes a value onto the stack
+pop() – Pops the top value from the stack
+bubbleSort() – Sorts an array using Bubble Sort
+Goster() – Displays the stack contents
+
+
+![bubbleSortAlg](https://github.com/user-attachments/assets/5b4e4ddd-821f-4b2e-b1bb-e68f83be2d77)
+
